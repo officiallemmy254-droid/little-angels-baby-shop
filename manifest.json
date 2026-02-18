@@ -1,14 +1,15 @@
 {
-  "name": "Little Angels Baby Shop",
-  "short_name": "Little Angels",
+  "name": "little-angels-baby-shop.netlify",
+  "short_name": "little-angels-baby-shop.netlify",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
-  "description": "Trusted baby shop in Nairobi. Shop baby clothes, diapers, toys & more.",
-  "orientation": "portrait-primary",
-  "id": "/",
+  "description": "Little Angels Baby Shop — Trusted baby shop in Nairobi. Shop baby clothes, diapers, toys & more. Order on WhatsApp, pay via M-Pesa.",
+  "dir": "ltr",
+  "orientation": "any",
   "scope": "/",
+  "id": "/",
   "icons": [
     {
       "src": "/images/bottle.jpg",
