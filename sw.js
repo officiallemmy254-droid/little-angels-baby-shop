@@ -4,7 +4,7 @@ const ASSETS_TO_CACHE = [
   './index.html',
   './styles.css',
   './main.js',
-  './manifest.json',
+  './site.webmanifest',
   './images/bottle.jpg'
 ];
 
